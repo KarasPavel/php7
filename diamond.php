@@ -3,6 +3,7 @@ echo "Vvedite chislo: ";
 $handle = fopen ("php://stdin","r");
 $diamond = fgets($handle);
 // gsigsfdssd
+// giasdasdsasdds
 dia($diamond);
 /*
      *
