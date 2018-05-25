@@ -4,6 +4,7 @@ $handle = fopen ("php://stdin","r");
 $diamond = fgets($handle);
 // gsigsfdssd
 dsaedadsdsadsas
+sasdasdasdsadsasadasddsadsa
 dia($diamond);
 /*
      *
