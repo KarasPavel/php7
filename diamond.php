@@ -2,7 +2,7 @@
 echo "Vvedite chislo: ";
 $handle = fopen ("php://stdin","r");
 $diamond = fgets($handle);
-
+// gsigsfdssd
 dia($diamond);
 /*
      *
